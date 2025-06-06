@@ -5,6 +5,7 @@ name = "pypi"
 
 [packages]
 dlt = {extras = ["duckdb"], version = "*"}
+tqdm = "*"
 
 [dev-packages]
 ipykernel = "*"
