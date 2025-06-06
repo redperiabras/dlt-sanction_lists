@@ -48,7 +48,7 @@ def src_interpol():
 if __name__ == "__main__":
     pipeline = dlt.pipeline(
         pipeline_name="sanctions",
-        destination="duckdb",
+        destination='duckdb',
         dataset_name="interpol",
         progress=dlt.progress.tqdm(colour="yellow"),
     )
