@@ -6,9 +6,13 @@ name = "pypi"
 [packages]
 dlt = {extras = ["duckdb"], version = "*"}
 tqdm = "*"
+httpx = "*"
+setuptools = "<81"
+xmltodict = "*"
 
 [dev-packages]
 ipykernel = "*"
+prettyprint = "*"
 
 [requires]
 python_version = "3.10"

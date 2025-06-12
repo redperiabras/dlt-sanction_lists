@@ -1,11 +1,12 @@
 import dlt
+import os
 
 from dlt.sources.helpers.rest_client import RESTClient
 from dlt.sources.helpers.rest_client.paginators import JSONLinkPaginator
 
 base_url = "https://ws-public.interpol.int/notices/v1/un"
 
-# os.environ["EXTRACT__WORKERS"] = "2"
+os.environ["EXTRACT__WORKERS"] = "2"
 
 @dlt.source()
 def src_interpol():
@@ -42,4 +43,4 @@ def src_interpol():
         yield response.json()
 
     for item in ['persons', 'entities']:
-        yield dlt.resource(notices(item), name=item) | dlt.transformer(transform_notices, name=f"{item}_details")
+        yield dlt.resource(notices(item), name=f"resource_{item}") | dlt.transformer(transform_notices, name=item, parallelized=True)
