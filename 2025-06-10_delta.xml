@@ -1,0 +1,1770 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sanctionsData xmlns="https://www.treasury.gov/ofac/DeltaFile/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.treasury.gov/ofac/DeltaFile/1.0 https://www.treasury.gov/ofac/downloads/sanctions/1.0/DeltaFile.xsd">
+  <publicationInfo>
+    <datePublished>2025-06-10T00:00:00-04:00</datePublished>
+    <publicationType>Standard Action</publicationType>
+  </publicationInfo>
+  <referenceValues />
+  <featureTypes />
+  <entities>
+    <entity id="53912" action="add">
+      <generalInfo>
+        <identityId>45319</identityId>
+        <entityType refId="601">Entity</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList id="56335" refId="1550" datePublished="2025-06-10">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram id="58007" refId="211">SDGT</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType id="46505" refId="1705">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority id="44457" refId="1828">Executive Order 13224 (Terrorism)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="83959">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83799">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>EL BARAKA ASSOCIATION FOR CHARITABLE AND HUMANITARIAN WORK</formattedLastName>
+              <formattedFullName>EL BARAKA ASSOCIATION FOR CHARITABLE AND HUMANITARIAN WORK</formattedFullName>
+              <nameParts>
+                <namePart id="140958">
+                  <type refId="1525">Entity Name</type>
+                  <value>El Baraka Association for Charitable and Humanitarian Work</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="84728">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="84720">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>AL-BARAKA ALGERIAN ASSOCIATION FOR CHARITABLE AND HUMANITARIAN WORK</formattedLastName>
+              <formattedFullName>AL-BARAKA ALGERIAN ASSOCIATION FOR CHARITABLE AND HUMANITARIAN WORK</formattedFullName>
+              <nameParts>
+                <namePart id="142258">
+                  <type refId="1525">Entity Name</type>
+                  <value>Al-Baraka Algerian Association for Charitable and Humanitarian Work</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="84729">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="84721">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>AL-BARAKA INTERNATIONAL ASSOCIATION</formattedLastName>
+              <formattedFullName>AL-BARAKA INTERNATIONAL ASSOCIATION</formattedFullName>
+              <nameParts>
+                <namePart id="142259">
+                  <type refId="1525">Entity Name</type>
+                  <value>Al-Baraka International Association</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="84730">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="84722">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>THE AL-BARAKA CHARITY ASSOCIATION</formattedLastName>
+              <formattedFullName>THE AL-BARAKA CHARITY ASSOCIATION</formattedFullName>
+              <nameParts>
+                <namePart id="142260">
+                  <type refId="1525">Entity Name</type>
+                  <value>The al-Baraka Charity Association</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="82267">
+          <country refId="11031">Algeria</country>
+          <translations>
+            <translation id="64283">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="113966">
+                  <type refId="1454">CITY</type>
+                  <value>Tizi Ouzou</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+        <address id="82268">
+          <country refId="11031">Algeria</country>
+          <translations>
+            <translation id="64284">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="113967">
+                  <type refId="1454">CITY</type>
+                  <value>Algiers</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="90406">
+          <type featureTypeId="646">Organization Established Date</type>
+          <versionId>88025</versionId>
+          <value>2015</value>
+          <valueDate id="138256">
+            <fromDateBegin>2015-01-01</fromDateBegin>
+            <fromDateEnd>2015-01-01</fromDateEnd>
+            <toDateBegin>2015-12-31</toDateBegin>
+            <toDateEnd>2015-12-31</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="90433">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>88052</versionId>
+          <value>section 1(b) of Executive Order 13224, as amended by Executive Order 13886</value>
+          <valueRefId>92084</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="90340">
+          <type featureTypeId="826">Target Type</type>
+          <versionId>87959</versionId>
+          <value>Charity or Nonprofit Organization</value>
+          <valueRefId>92032</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <relationships>
+        <relationship id="22527">
+          <type refId="15001">Providing support to</type>
+          <relatedEntity entityId="4695">HAMAS</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+    <entity id="53913" action="add">
+      <generalInfo>
+        <identityId>45320</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList id="56336" refId="1550" datePublished="2025-06-10">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram id="58008" refId="211">SDGT</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType id="46506" refId="1705">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority id="44458" refId="1828">Executive Order 13224 (Terrorism)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="83960">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83800">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Ahmed</formattedFirstName>
+              <formattedLastName>BRAHIMI</formattedLastName>
+              <formattedFullName>BRAHIMI, Ahmed</formattedFullName>
+              <nameParts>
+                <namePart id="140960">
+                  <type refId="1521">First Name</type>
+                  <value>Ahmed</value>
+                </namePart>
+                <namePart id="140959">
+                  <type refId="1520">Last Name</type>
+                  <value>Brahimi</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="83961">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83801">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Ahmed</formattedFirstName>
+              <formattedLastName>IBRAHIM</formattedLastName>
+              <formattedFullName>IBRAHIM, Ahmed</formattedFullName>
+              <nameParts>
+                <namePart id="140962">
+                  <type refId="1521">First Name</type>
+                  <value>Ahmed</value>
+                </namePart>
+                <namePart id="140961">
+                  <type refId="1520">Last Name</type>
+                  <value>Ibrahim</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="84727">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="84719">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Ahmad</formattedFirstName>
+              <formattedLastName>AL-UBRAHIMI</formattedLastName>
+              <formattedFullName>AL-UBRAHIMI, Ahmad</formattedFullName>
+              <nameParts>
+                <namePart id="142257">
+                  <type refId="1521">First Name</type>
+                  <value>Ahmad</value>
+                </namePart>
+                <namePart id="142256">
+                  <type refId="1520">Last Name</type>
+                  <value>Al-Ubrahimi</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="82270">
+          <country refId="11031">Algeria</country>
+          <translations>
+            <translation id="64285">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="113961">
+                  <type refId="1451">ADDRESS1</type>
+                  <value>El Harrach</value>
+                </addressPart>
+                <addressPart id="113962">
+                  <type refId="1454">CITY</type>
+                  <value>Algiers</value>
+                </addressPart>
+                <addressPart id="113963">
+                  <type refId="1456">POSTAL CODE</type>
+                  <value>16200</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="89034">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>86653</versionId>
+          <value>24 Jun 1970</value>
+          <valueDate id="135722">
+            <fromDateBegin>1970-06-24</fromDateBegin>
+            <fromDateEnd>1970-06-24</fromDateEnd>
+            <toDateBegin>1970-06-24</toDateBegin>
+            <toDateEnd>1970-06-24</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="89031">
+          <type featureTypeId="224">Gender</type>
+          <versionId>86650</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+          <reliability refId="1560">Confirmed</reliability>
+        </feature>
+        <feature id="89032">
+          <type featureTypeId="10">Nationality Country</type>
+          <versionId>86651</versionId>
+          <value>Algeria</value>
+          <valueRefId>11031</valueRefId>
+          <isPrimary>true</isPrimary>
+          <reliability refId="1560">Confirmed</reliability>
+        </feature>
+        <feature id="89033">
+          <type featureTypeId="9">Place of Birth</type>
+          <versionId>86652</versionId>
+          <value>Beni Slimane, Medea, Algeria</value>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="90434">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>88053</versionId>
+          <value>section 1(b) of Executive Order 13224, as amended by Executive Order 13886</value>
+          <valueRefId>92084</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="47346">
+          <type refId="1571">Passport</type>
+          <name nameId="83960" nameTranslationId="83800">BRAHIMI, Ahmed</name>
+          <documentNumber>309859713</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11031">Algeria</issuingCountry>
+          <expirationDate id="135719">
+            <fromDateBegin>2031-10-25</fromDateBegin>
+            <fromDateEnd>2031-10-25</fromDateEnd>
+            <toDateBegin>2031-10-25</toDateBegin>
+            <toDateEnd>2031-10-25</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </expirationDate>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="22526">
+          <type refId="15001">Providing support to</type>
+          <relatedEntity entityId="4695">HAMAS</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+    <entity id="53915" action="add">
+      <generalInfo>
+        <identityId>45322</identityId>
+        <entityType refId="601">Entity</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList id="56338" refId="1550" datePublished="2025-06-10">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram id="58010" refId="211">SDGT</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType id="46508" refId="1705">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority id="44460" refId="1828">Executive Order 13224 (Terrorism)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="83963">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83803">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>AL WEAM CHARITABLE SOCIETY</formattedLastName>
+              <formattedFullName>AL WEAM CHARITABLE SOCIETY</formattedFullName>
+              <nameParts>
+                <namePart id="140965">
+                  <type refId="1525">Entity Name</type>
+                  <value>Al Weam Charitable Society</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="83964">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83804">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>ALWEA'AM SOCIETY</formattedLastName>
+              <formattedFullName>ALWEA'AM SOCIETY</formattedFullName>
+              <nameParts>
+                <namePart id="140966">
+                  <type refId="1525">Entity Name</type>
+                  <value>AlWea'am Society</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="82273">
+          <translations>
+            <translation id="64286">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="114073">
+                  <type refId="1451">ADDRESS1</type>
+                  <value>East of the Directorate of Instruction and Education</value>
+                </addressPart>
+                <addressPart id="114074">
+                  <type refId="1452">ADDRESS2</type>
+                  <value>Beit Layeh</value>
+                </addressPart>
+                <addressPart id="114072">
+                  <type refId="1450">REGION</type>
+                  <value>Northern Gaza</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="90439">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>88058</versionId>
+          <value>section 1(b) of Executive Order 13224, as amended by Executive Order 13886</value>
+          <valueRefId>92084</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="90363">
+          <type featureTypeId="826">Target Type</type>
+          <versionId>87982</versionId>
+          <value>Charity or Nonprofit Organization</value>
+          <valueRefId>92032</valueRefId>
+          <isPrimary>true</isPrimary>
+          <reliability refId="1560">Confirmed</reliability>
+        </feature>
+        <feature id="89038">
+          <type featureTypeId="14">Website</type>
+          <versionId>86657</versionId>
+          <value>https://www.en.alweaam.ps</value>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <relationships>
+        <relationship id="22529">
+          <type refId="15001">Providing support to</type>
+          <relatedEntity entityId="4695">HAMAS</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+    <entity id="53917" action="add">
+      <generalInfo>
+        <identityId>45324</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList id="56340" refId="1550" datePublished="2025-06-10">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram id="58012" refId="211">SDGT</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType id="46510" refId="1705">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority id="44462" refId="1828">Executive Order 13224 (Terrorism)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="83966">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83806">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Muhammad Sami Muhammad</formattedFirstName>
+              <formattedLastName>ABU MAREI</formattedLastName>
+              <formattedFullName>ABU MAREI, Muhammad Sami Muhammad</formattedFullName>
+              <nameParts>
+                <namePart id="140969">
+                  <type refId="1521">First Name</type>
+                  <value>Muhammad</value>
+                </namePart>
+                <namePart id="140968">
+                  <type refId="1520">Last Name</type>
+                  <value>Abu Marei</value>
+                </namePart>
+                <namePart id="140970">
+                  <type refId="1522">Middle Name</type>
+                  <value>Sami Muhammad</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="83967">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83807">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Muh Muhammad Sami Muhammad</formattedFirstName>
+              <formattedLastName>EBU MER'A</formattedLastName>
+              <formattedFullName>EBU MER'A, Muh Muhammad Sami Muhammad</formattedFullName>
+              <nameParts>
+                <namePart id="140972">
+                  <type refId="1521">First Name</type>
+                  <value>Muh Muhammad</value>
+                </namePart>
+                <namePart id="140971">
+                  <type refId="1520">Last Name</type>
+                  <value>Ebu Mer'a</value>
+                </namePart>
+                <namePart id="140973">
+                  <type refId="1522">Middle Name</type>
+                  <value>Sami Muhammad</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="83968">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83808">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Mohammed Sami</formattedFirstName>
+              <formattedLastName>ABU MEREI</formattedLastName>
+              <formattedFullName>ABU MEREI, Mohammed Sami</formattedFullName>
+              <nameParts>
+                <namePart id="140975">
+                  <type refId="1521">First Name</type>
+                  <value>Mohammed</value>
+                </namePart>
+                <namePart id="140974">
+                  <type refId="1520">Last Name</type>
+                  <value>Abu Merei</value>
+                </namePart>
+                <namePart id="140976">
+                  <type refId="1522">Middle Name</type>
+                  <value>Sami</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="84732">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="84724">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Mohammed Sami Muhammad</formattedFirstName>
+              <formattedLastName>ABU-MAR'I</formattedLastName>
+              <formattedFullName>ABU-MAR'I, Mohammed Sami Muhammad</formattedFullName>
+              <nameParts>
+                <namePart id="142263">
+                  <type refId="1521">First Name</type>
+                  <value>Mohammed</value>
+                </namePart>
+                <namePart id="142262">
+                  <type refId="1520">Last Name</type>
+                  <value>Abu-Mar'i</value>
+                </namePart>
+                <namePart id="142264">
+                  <type refId="1522">Middle Name</type>
+                  <value>Sami Muhammad</value>
+                </namePart>
+              </nameParts>
+            </translation>
+            <translation id="84726">
+              <isPrimary>false</isPrimary>
+              <script refId="20100">Arabic</script>
+              <formattedLastName>‫محمد سامي محمد أبومرعي‬</formattedLastName>
+              <formattedFullName>‫محمد سامي محمد أبومرعي‬</formattedFullName>
+              <nameParts>
+                <namePart id="142269">
+                  <type refId="1521">First Name</type>
+                  <value>محمد</value>
+                </namePart>
+                <namePart id="142268">
+                  <type refId="1520">Last Name</type>
+                  <value>أبومرعي</value>
+                </namePart>
+                <namePart id="142270">
+                  <type refId="1522">Middle Name</type>
+                  <value>سامي محمد</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="83153">
+          <translations>
+            <translation id="64847">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="114070">
+                  <type refId="1450">REGION</type>
+                  <value>Gaza</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+        <address id="83154">
+          <translations>
+            <translation id="64848">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="114071">
+                  <type refId="1450">REGION</type>
+                  <value>North Gaza</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="90334">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>87953</versionId>
+          <value>05 Feb 1985</value>
+          <valueDate id="138178">
+            <fromDateBegin>1985-02-05</fromDateBegin>
+            <fromDateEnd>1985-02-05</fromDateEnd>
+            <toDateBegin>1985-02-05</toDateBegin>
+            <toDateEnd>1985-02-05</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="90335">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>87954</versionId>
+          <value>02 May 1985</value>
+          <valueDate id="138179">
+            <fromDateBegin>1985-05-02</fromDateBegin>
+            <fromDateEnd>1985-05-02</fromDateEnd>
+            <toDateBegin>1985-05-02</toDateBegin>
+            <toDateEnd>1985-05-02</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>false</isPrimary>
+        </feature>
+        <feature id="90336">
+          <type featureTypeId="11">Citizenship Country</type>
+          <versionId>87955</versionId>
+          <value>Palestinian</value>
+          <valueRefId>91021</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="89042">
+          <type featureTypeId="224">Gender</type>
+          <versionId>86661</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+          <reliability refId="1560">Confirmed</reliability>
+        </feature>
+        <feature id="90337">
+          <type featureTypeId="10">Nationality Country</type>
+          <versionId>87956</versionId>
+          <value>Palestinian</value>
+          <valueRefId>91021</valueRefId>
+          <isPrimary>true</isPrimary>
+          <reliability refId="1560">Confirmed</reliability>
+        </feature>
+        <feature id="90436">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>88055</versionId>
+          <value>section 1(b) of Executive Order 13224, as amended by Executive Order 13886</value>
+          <valueRefId>92084</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="48067">
+          <type refId="1584">National ID No.</type>
+          <name nameId="83966" nameTranslationId="83806">ABU MAREI, Muhammad Sami Muhammad</name>
+          <documentNumber>800451015</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="91021">Palestinian</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="22528">
+          <type refId="92019">Owns, controls, or operates</type>
+          <relatedEntity entityId="53915">AL WEAM CHARITABLE SOCIETY</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+    <entity id="53918" action="add">
+      <generalInfo>
+        <identityId>45325</identityId>
+        <entityType refId="601">Entity</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList id="56341" refId="1550" datePublished="2025-06-10">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram id="58013" refId="211">SDGT</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType id="46511" refId="1705">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority id="44463" refId="1828">Executive Order 13224 (Terrorism)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="83969">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83809">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>FILISTIN VAKFI</formattedLastName>
+              <formattedFullName>FILISTIN VAKFI</formattedFullName>
+              <nameParts>
+                <namePart id="140977">
+                  <type refId="1525">Entity Name</type>
+                  <value>Filistin Vakfi</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="83970">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>true</isLowQuality>
+          <translations>
+            <translation id="83810">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>TURK BROTHER LTD.</formattedLastName>
+              <formattedFullName>TURK BROTHER LTD.</formattedFullName>
+              <nameParts>
+                <namePart id="140978">
+                  <type refId="1525">Entity Name</type>
+                  <value>Turk Brother Ltd.</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="82279">
+          <country refId="11205">Turkey</country>
+          <translations>
+            <translation id="64289">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="114034">
+                  <type refId="1451">ADDRESS1</type>
+                  <value>Haseki Sultan Neighborhood</value>
+                </addressPart>
+                <addressPart id="114035">
+                  <type refId="1452">ADDRESS2</type>
+                  <value>Kizilelma Street No. 5/2</value>
+                </addressPart>
+                <addressPart id="114036">
+                  <type refId="1453">ADDRESS3</type>
+                  <value>Fatih</value>
+                </addressPart>
+                <addressPart id="114037">
+                  <type refId="1454">CITY</type>
+                  <value>Istanbul</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="89043">
+          <type featureTypeId="646">Organization Established Date</type>
+          <versionId>86662</versionId>
+          <value>01 Jan 2016</value>
+          <valueDate id="135740">
+            <fromDateBegin>2016-01-01</fromDateBegin>
+            <fromDateEnd>2016-01-01</fromDateEnd>
+            <toDateBegin>2016-01-01</toDateBegin>
+            <toDateEnd>2016-01-01</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="90447">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>88066</versionId>
+          <value>section 1(b) of Executive Order 13224, as amended by Executive Order 13886</value>
+          <valueRefId>92084</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="90368">
+          <type featureTypeId="826">Target Type</type>
+          <versionId>87987</versionId>
+          <value>Charity or Nonprofit Organization</value>
+          <valueRefId>92032</valueRefId>
+          <isPrimary>true</isPrimary>
+          <reliability refId="1560">Confirmed</reliability>
+        </feature>
+        <feature id="90408">
+          <type featureTypeId="14">Website</type>
+          <versionId>88027</versionId>
+          <value>filistinvkf.org</value>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <relationships>
+        <relationship id="22535">
+          <type refId="15003">Owned or Controlled By</type>
+          <relatedEntity entityId="53919">ARARAWI, Zeki Abdullah Ibrahim</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+    <entity id="53919" action="add">
+      <generalInfo>
+        <identityId>45326</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList id="56342" refId="1550" datePublished="2025-06-10">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram id="58014" refId="211">SDGT</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType id="46512" refId="1705">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority id="44464" refId="1828">Executive Order 13224 (Terrorism)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="83972">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83812">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Zeki Abdullah Ibrahim</formattedFirstName>
+              <formattedLastName>ARARAWI</formattedLastName>
+              <formattedFullName>ARARAWI, Zeki Abdullah Ibrahim</formattedFullName>
+              <nameParts>
+                <namePart id="140981">
+                  <type refId="1521">First Name</type>
+                  <value>Zeki</value>
+                </namePart>
+                <namePart id="140980">
+                  <type refId="1520">Last Name</type>
+                  <value>Ararawi</value>
+                </namePart>
+                <namePart id="140982">
+                  <type refId="1522">Middle Name</type>
+                  <value>Abdullah Ibrahim</value>
+                </namePart>
+              </nameParts>
+            </translation>
+            <translation id="84725">
+              <isPrimary>false</isPrimary>
+              <script refId="20100">Arabic</script>
+              <formattedLastName>‫زكي عبدالله إبراهيم عرعراوي‬</formattedLastName>
+              <formattedFullName>‫زكي عبدالله إبراهيم عرعراوي‬</formattedFullName>
+              <nameParts>
+                <namePart id="142266">
+                  <type refId="1521">First Name</type>
+                  <value>زكي</value>
+                </namePart>
+                <namePart id="142265">
+                  <type refId="1520">Last Name</type>
+                  <value>عرعراوي</value>
+                </namePart>
+                <namePart id="142267">
+                  <type refId="1522">Middle Name</type>
+                  <value>عبدالله إبراهيم</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="83973">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83813">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Zaki Abdallah Ibrahim</formattedFirstName>
+              <formattedLastName>ARARAWI</formattedLastName>
+              <formattedFullName>ARARAWI, Zaki Abdallah Ibrahim</formattedFullName>
+              <nameParts>
+                <namePart id="140984">
+                  <type refId="1521">First Name</type>
+                  <value>Zaki</value>
+                </namePart>
+                <namePart id="140983">
+                  <type refId="1520">Last Name</type>
+                  <value>Ararawi</value>
+                </namePart>
+                <namePart id="140985">
+                  <type refId="1522">Middle Name</type>
+                  <value>Abdallah Ibrahim</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="83170">
+          <country refId="11205">Turkey</country>
+          <translations>
+            <translation id="64858">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="90338">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>87957</versionId>
+          <value>23 May 1961</value>
+          <valueDate id="138182">
+            <fromDateBegin>1961-05-23</fromDateBegin>
+            <fromDateEnd>1961-05-23</fromDateEnd>
+            <toDateBegin>1961-05-23</toDateBegin>
+            <toDateEnd>1961-05-23</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="89044">
+          <type featureTypeId="224">Gender</type>
+          <versionId>86663</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+          <reliability refId="1560">Confirmed</reliability>
+        </feature>
+        <feature id="90339">
+          <type featureTypeId="10">Nationality Country</type>
+          <versionId>87958</versionId>
+          <value>Jordan</value>
+          <valueRefId>11116</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="90446">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>88065</versionId>
+          <value>section 1(b) of Executive Order 13224, as amended by Executive Order 13886</value>
+          <valueRefId>92084</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="48068">
+          <type refId="1584">National ID No.</type>
+          <name nameId="83972" nameTranslationId="83812">ARARAWI, Zeki Abdullah Ibrahim</name>
+          <documentNumber>9611012701</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11116">Jordan</issuingCountry>
+        </identityDocument>
+        <identityDocument id="48080">
+          <type refId="1584">National ID No.</type>
+          <name nameId="83972" nameTranslationId="83812">ARARAWI, Zeki Abdullah Ibrahim</name>
+          <documentNumber>451025163</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11116">Jordan</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="22534">
+          <type refId="15001">Providing support to</type>
+          <relatedEntity entityId="4695">HAMAS</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+    <entity id="53920" action="add">
+      <generalInfo>
+        <identityId>45327</identityId>
+        <entityType refId="601">Entity</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList id="56343" refId="1550" datePublished="2025-06-10">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram id="58015" refId="211">SDGT</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType id="46513" refId="1705">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority id="44465" refId="1828">Executive Order 13224 (Terrorism)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="83974">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83814">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>ADDAMEER PRISONER SUPPORT AND HUMAN RIGHTS ASSOCIATION</formattedLastName>
+              <formattedFullName>ADDAMEER PRISONER SUPPORT AND HUMAN RIGHTS ASSOCIATION</formattedFullName>
+              <nameParts>
+                <namePart id="140986">
+                  <type refId="1525">Entity Name</type>
+                  <value>Addameer Prisoner Support and Human Rights Association</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="83975">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83815">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>ADDAMEER PRISONER'S SUPPORT ASSOCIATION</formattedLastName>
+              <formattedFullName>ADDAMEER PRISONER'S SUPPORT ASSOCIATION</formattedFullName>
+              <nameParts>
+                <namePart id="140987">
+                  <type refId="1525">Entity Name</type>
+                  <value>Addameer Prisoner's Support Association</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="83976">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83816">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>ADDAMEER</formattedLastName>
+              <formattedFullName>ADDAMEER</formattedFullName>
+              <nameParts>
+                <namePart id="140988">
+                  <type refId="1525">Entity Name</type>
+                  <value>Addameer</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="83977">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83817">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>ADDAMEER FOUNDATION</formattedLastName>
+              <formattedFullName>ADDAMEER FOUNDATION</formattedFullName>
+              <nameParts>
+                <namePart id="140989">
+                  <type refId="1525">Entity Name</type>
+                  <value>Addameer Foundation</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="82283">
+          <country refId="11112">Israel</country>
+          <translations>
+            <translation id="64291">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="112231">
+                  <type refId="1451">ADDRESS1</type>
+                  <value>P.O. Box 17338</value>
+                </addressPart>
+                <addressPart id="112232">
+                  <type refId="1454">CITY</type>
+                  <value>Jerusalem</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+        <address id="82284">
+          <translations>
+            <translation id="64292">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="114086">
+                  <type refId="1451">ADDRESS1</type>
+                  <value>Mousa Tawasheh Street</value>
+                </addressPart>
+                <addressPart id="114087">
+                  <type refId="1452">ADDRESS2</type>
+                  <value>Sebat Bldg, 1st Floor, Suite 2</value>
+                </addressPart>
+                <addressPart id="114088">
+                  <type refId="1454">CITY</type>
+                  <value>Ramallah</value>
+                </addressPart>
+                <addressPart id="114085">
+                  <type refId="1450">REGION</type>
+                  <value>West Bank</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="89045">
+          <type featureTypeId="646">Organization Established Date</type>
+          <versionId>86664</versionId>
+          <value>01 Jan 1992</value>
+          <valueDate id="135747">
+            <fromDateBegin>1992-01-01</fromDateBegin>
+            <fromDateEnd>1992-01-01</fromDateEnd>
+            <toDateBegin>1992-01-01</toDateBegin>
+            <toDateEnd>1992-01-01</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="90443">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>88062</versionId>
+          <value>section 1(b) of Executive Order 13224, as amended by Executive Order 13886</value>
+          <valueRefId>92084</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="90366">
+          <type featureTypeId="826">Target Type</type>
+          <versionId>87985</versionId>
+          <value>Charity or Nonprofit Organization</value>
+          <valueRefId>92032</valueRefId>
+          <isPrimary>true</isPrimary>
+          <reliability refId="1560">Confirmed</reliability>
+        </feature>
+        <feature id="89046">
+          <type featureTypeId="14">Website</type>
+          <versionId>86665</versionId>
+          <value>https://www.addameer.org</value>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <relationships>
+        <relationship id="22533">
+          <type refId="15001">Providing support to</type>
+          <relatedEntity entityId="4709">POPULAR FRONT FOR THE LIBERATION OF PALESTINE</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+    <entity id="53921" action="add">
+      <generalInfo>
+        <identityId>45328</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList id="56344" refId="1550" datePublished="2025-06-10">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram id="58016" refId="211">SDGT</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType id="46514" refId="1705">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority id="44466" refId="1828">Executive Order 13224 (Terrorism)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="83978">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83818">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Amin</formattedFirstName>
+              <formattedLastName>ABU RASHED</formattedLastName>
+              <formattedFullName>ABU RASHED, Amin</formattedFullName>
+              <nameParts>
+                <namePart id="140991">
+                  <type refId="1521">First Name</type>
+                  <value>Amin</value>
+                </namePart>
+                <namePart id="140990">
+                  <type refId="1520">Last Name</type>
+                  <value>Abu Rashed</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="84759">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="84757">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Amin Ghazi</formattedFirstName>
+              <formattedLastName>ABU RASHED</formattedLastName>
+              <formattedFullName>ABU RASHED, Amin Ghazi</formattedFullName>
+              <nameParts>
+                <namePart id="142311">
+                  <type refId="1521">First Name</type>
+                  <value>Amin</value>
+                </namePart>
+                <namePart id="142310">
+                  <type refId="1520">Last Name</type>
+                  <value>Abu Rashed</value>
+                </namePart>
+                <namePart id="142312">
+                  <type refId="1522">Middle Name</type>
+                  <value>Ghazi</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="82286">
+          <country refId="11153">Netherlands</country>
+          <translations>
+            <translation id="64293">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="114038">
+                  <type refId="1454">CITY</type>
+                  <value>Leidschendam</value>
+                </addressPart>
+                <addressPart id="114039">
+                  <type refId="1455">STATE/PROVINCE</type>
+                  <value>South Holland</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="89047">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>86666</versionId>
+          <value>10 Oct 1967</value>
+          <valueDate id="135749">
+            <fromDateBegin>1967-10-10</fromDateBegin>
+            <fromDateEnd>1967-10-10</fromDateEnd>
+            <toDateBegin>1967-10-10</toDateBegin>
+            <toDateEnd>1967-10-10</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="89049">
+          <type featureTypeId="224">Gender</type>
+          <versionId>86668</versionId>
+          <value>Male</value>
+          <valueRefId>91526</valueRefId>
+          <isPrimary>true</isPrimary>
+          <reliability refId="1560">Confirmed</reliability>
+        </feature>
+        <feature id="89048">
+          <type featureTypeId="10">Nationality Country</type>
+          <versionId>86667</versionId>
+          <value>Netherlands</value>
+          <valueRefId>11153</valueRefId>
+          <isPrimary>true</isPrimary>
+          <reliability refId="1560">Confirmed</reliability>
+        </feature>
+        <feature id="89050">
+          <type featureTypeId="9">Place of Birth</type>
+          <versionId>86669</versionId>
+          <value>Lebanon</value>
+          <isPrimary>true</isPrimary>
+          <reliability refId="1560">Confirmed</reliability>
+        </feature>
+        <feature id="90440">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>88059</versionId>
+          <value>section 1(b) of Executive Order 13224, as amended by Executive Order 13886</value>
+          <valueRefId>92084</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="48079">
+          <type refId="1584">National ID No.</type>
+          <name nameId="83978" nameTranslationId="83818">ABU RASHED, Amin</name>
+          <documentNumber>NRCLHD9RD</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11153">Netherlands</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="22530">
+          <type refId="15001">Providing support to</type>
+          <relatedEntity entityId="4695">HAMAS</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+    <entity id="53922" action="add">
+      <generalInfo>
+        <identityId>45329</identityId>
+        <entityType refId="600">Individual</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList id="56345" refId="1550" datePublished="2025-06-10">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram id="58017" refId="211">SDGT</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType id="46515" refId="1705">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority id="44467" refId="1828">Executive Order 13224 (Terrorism)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="83979">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83819">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedFirstName>Israa Abou</formattedFirstName>
+              <formattedLastName>RASHED</formattedLastName>
+              <formattedFullName>RASHED, Israa Abou</formattedFullName>
+              <nameParts>
+                <namePart id="140994">
+                  <type refId="1521">First Name</type>
+                  <value>Israa</value>
+                </namePart>
+                <namePart id="140993">
+                  <type refId="1520">Last Name</type>
+                  <value>Rashed</value>
+                </namePart>
+                <namePart id="140995">
+                  <type refId="1522">Middle Name</type>
+                  <value>Abou</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="82288">
+          <country refId="11153">Netherlands</country>
+          <translations>
+            <translation id="64294">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="114075">
+                  <type refId="1454">CITY</type>
+                  <value>Leidschendam</value>
+                </addressPart>
+                <addressPart id="114076">
+                  <type refId="1455">STATE/PROVINCE</type>
+                  <value>South Holland</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="90341">
+          <type featureTypeId="8">Birthdate</type>
+          <versionId>87960</versionId>
+          <value>01 Jan 1998</value>
+          <valueDate id="138195">
+            <fromDateBegin>1998-01-01</fromDateBegin>
+            <fromDateEnd>1998-01-01</fromDateEnd>
+            <toDateBegin>1998-01-01</toDateBegin>
+            <toDateEnd>1998-01-01</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="89051">
+          <type featureTypeId="224">Gender</type>
+          <versionId>86670</versionId>
+          <value>Female</value>
+          <valueRefId>91527</valueRefId>
+          <isPrimary>true</isPrimary>
+          <reliability refId="1560">Confirmed</reliability>
+        </feature>
+        <feature id="89052">
+          <type featureTypeId="10">Nationality Country</type>
+          <versionId>86671</versionId>
+          <value>Netherlands</value>
+          <valueRefId>11153</valueRefId>
+          <isPrimary>true</isPrimary>
+          <reliability refId="1560">Confirmed</reliability>
+        </feature>
+        <feature id="90442">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>88061</versionId>
+          <value>section 1(b) of Executive Order 13224, as amended by Executive Order 13886</value>
+          <valueRefId>92084</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <relationships>
+        <relationship id="22532">
+          <type refId="15001">Providing support to</type>
+          <relatedEntity entityId="4695">HAMAS</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+    <entity id="53923" action="add">
+      <generalInfo>
+        <identityId>45330</identityId>
+        <entityType refId="601">Entity</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList id="56346" refId="1550" datePublished="2025-06-10">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram id="58018" refId="211">SDGT</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType id="46516" refId="1705">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority id="44468" refId="1828">Executive Order 13224 (Terrorism)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="83980">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83820">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>ISRAA CHARITABLE FOUNDATION NETHERLANDS</formattedLastName>
+              <formattedFullName>ISRAA CHARITABLE FOUNDATION NETHERLANDS</formattedFullName>
+              <nameParts>
+                <namePart id="140996">
+                  <type refId="1525">Entity Name</type>
+                  <value>ISRAA Charitable Foundation Netherlands</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="83981">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83821">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>STG. INT. STEUN AANARMEN STICHTING ISRAA</formattedLastName>
+              <formattedFullName>STG. INT. STEUN AANARMEN STICHTING ISRAA</formattedFullName>
+              <nameParts>
+                <namePart id="140997">
+                  <type refId="1525">Entity Name</type>
+                  <value>Stg. Int. Steun AanArmen Stichting ISRAA</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="83982">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>true</isLowQuality>
+          <translations>
+            <translation id="83822">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>ISRAA</formattedLastName>
+              <formattedFullName>ISRAA</formattedFullName>
+              <nameParts>
+                <namePart id="140998">
+                  <type refId="1525">Entity Name</type>
+                  <value>ISRAA</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="83983">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83823">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>STICHTING ISRAA</formattedLastName>
+              <formattedFullName>STICHTING ISRAA</formattedFullName>
+              <nameParts>
+                <namePart id="140999">
+                  <type refId="1525">Entity Name</type>
+                  <value>Stichting ISRAA</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="83984">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="83824">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>STICHTING INTERNATIONALE STEUN RECHTSTREEKS AAARMEN</formattedLastName>
+              <formattedFullName>STICHTING INTERNATIONALE STEUN RECHTSTREEKS AAARMEN</formattedFullName>
+              <nameParts>
+                <namePart id="141000">
+                  <type refId="1525">Entity Name</type>
+                  <value>Stichting Internationale Steun Rechtstreeks AaArmen</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="82290">
+          <country refId="11153">Netherlands</country>
+          <translations>
+            <translation id="64295">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <addressParts>
+                <addressPart id="113968">
+                  <type refId="1454">CITY</type>
+                  <value>Rotterdam</value>
+                </addressPart>
+              </addressParts>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="90364">
+          <type featureTypeId="646">Organization Established Date</type>
+          <versionId>87983</versionId>
+          <value>12 Jul 2001</value>
+          <valueDate id="138246">
+            <fromDateBegin>2001-07-12</fromDateBegin>
+            <fromDateEnd>2001-07-12</fromDateEnd>
+            <toDateBegin>2001-07-12</toDateBegin>
+            <toDateEnd>2001-07-12</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="90441">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>88060</versionId>
+          <value>section 1(b) of Executive Order 13224, as amended by Executive Order 13886</value>
+          <valueRefId>92084</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="90407">
+          <type featureTypeId="826">Target Type</type>
+          <versionId>88026</versionId>
+          <value>Charity or Nonprofit Organization</value>
+          <valueRefId>92032</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <identityDocuments>
+        <identityDocument id="47351">
+          <type refId="91760">Business Registration Number</type>
+          <name nameId="83980" nameTranslationId="83820">ISRAA CHARITABLE FOUNDATION NETHERLANDS</name>
+          <documentNumber>24328679</documentNumber>
+          <isValid>true</isValid>
+          <issuingCountry refId="11153">Netherlands</issuingCountry>
+        </identityDocument>
+      </identityDocuments>
+      <relationships>
+        <relationship id="22531">
+          <type refId="15001">Providing support to</type>
+          <relatedEntity entityId="4695">HAMAS</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+    <entity id="54421" action="add">
+      <generalInfo>
+        <identityId>45790</identityId>
+        <entityType refId="601">Entity</entityType>
+      </generalInfo>
+      <sanctionsLists>
+        <sanctionsList id="56826" refId="1550" datePublished="2025-06-10">SDN List</sanctionsList>
+      </sanctionsLists>
+      <sanctionsPrograms>
+        <sanctionsProgram id="58610" refId="211">SDGT</sanctionsProgram>
+      </sanctionsPrograms>
+      <sanctionsTypes>
+        <sanctionsType id="47034" refId="1705">Block</sanctionsType>
+      </sanctionsTypes>
+      <legalAuthorities>
+        <legalAuthority id="44994" refId="1828">Executive Order 13224 (Terrorism)</legalAuthority>
+      </legalAuthorities>
+      <names>
+        <name id="84714">
+          <isPrimary>true</isPrimary>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="84705">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>ASSOCIAZIONE BENEFICA LA CUPOLA D'ORO</formattedLastName>
+              <formattedFullName>ASSOCIAZIONE BENEFICA LA CUPOLA D'ORO</formattedFullName>
+              <nameParts>
+                <namePart id="142225">
+                  <type refId="1525">Entity Name</type>
+                  <value>ASSOCIAZIONE BENEFICA LA CUPOLA D'ORO</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="84715">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>true</isLowQuality>
+          <translations>
+            <translation id="84706">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>GOLDEN DOME CHARITY ASSOCIATION</formattedLastName>
+              <formattedFullName>GOLDEN DOME CHARITY ASSOCIATION</formattedFullName>
+              <nameParts>
+                <namePart id="142226">
+                  <type refId="1525">Entity Name</type>
+                  <value>GOLDEN DOME CHARITY ASSOCIATION</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+        <name id="84716">
+          <isPrimary>false</isPrimary>
+          <aliasType refId="1400">A.K.A.</aliasType>
+          <isLowQuality>false</isLowQuality>
+          <translations>
+            <translation id="84707">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+              <formattedLastName>LA CUPOLA D'ORO</formattedLastName>
+              <formattedFullName>LA CUPOLA D'ORO</formattedFullName>
+              <nameParts>
+                <namePart id="142227">
+                  <type refId="1525">Entity Name</type>
+                  <value>LA CUPOLA D'ORO</value>
+                </namePart>
+              </nameParts>
+            </translation>
+          </translations>
+        </name>
+      </names>
+      <addresses>
+        <address id="83156">
+          <country refId="11113">Italy</country>
+          <translations>
+            <translation id="64849">
+              <isPrimary>true</isPrimary>
+              <script refId="20122">Latin</script>
+            </translation>
+          </translations>
+        </address>
+      </addresses>
+      <features>
+        <feature id="90358">
+          <type featureTypeId="646">Organization Established Date</type>
+          <versionId>87977</versionId>
+          <value>01 Mar 2024</value>
+          <valueDate id="138241">
+            <fromDateBegin>2024-03-01</fromDateBegin>
+            <fromDateEnd>2024-03-01</fromDateEnd>
+            <toDateBegin>2024-03-01</toDateBegin>
+            <toDateEnd>2024-03-01</toDateEnd>
+            <isApproximate>false</isApproximate>
+            <isDateRange>false</isDateRange>
+          </valueDate>
+          <isPrimary>true</isPrimary>
+          <reliability refId="91479">Reported</reliability>
+        </feature>
+        <feature id="90435">
+          <type featureTypeId="504">Secondary sanctions risk:</type>
+          <versionId>88054</versionId>
+          <value>section 1(b) of Executive Order 13224, as amended by Executive Order 13886</value>
+          <valueRefId>92084</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+        <feature id="90369">
+          <type featureTypeId="826">Target Type</type>
+          <versionId>87988</versionId>
+          <value>Charity or Nonprofit Organization</value>
+          <valueRefId>92032</valueRefId>
+          <isPrimary>true</isPrimary>
+        </feature>
+      </features>
+      <relationships>
+        <relationship id="22546">
+          <type refId="15001">Providing support to</type>
+          <relatedEntity entityId="4695">HAMAS</relatedEntity>
+        </relationship>
+      </relationships>
+    </entity>
+  </entities>
+</sanctionsData>
